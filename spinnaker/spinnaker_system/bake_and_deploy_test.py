@@ -75,7 +75,7 @@
 #     --jenkins_url=$JENKINS_URL \
 #     --jenkins_auth_path=$JENKINS_AUTH_PATH \
 #     --jenkins_job=$JENKINS_JOB \
-#     --jenkins_token=$JENKINS_TOKE \
+#     --jenkins_token=$JENKINS_TOKEN \
 #     --test_google \
 #     --test_aws
 
