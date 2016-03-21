@@ -70,11 +70,12 @@
 #     python $CITEST_ROOT/spinnaker/spinnaker_system/bake_and_deploy_test.py \
 #     --native_hostname=host-running-smoke-test
 #     --managed_gce_project=$PROJECT \
-#     --test_gce_zone=$ZONE
+#     --test_gce_zone=$ZONE \
+#     --test_aws_region=$AWS_REGION \
 #     --jenkins_url=$JENKINS_URL \
 #     --jenkins_auth_path=$JENKINS_AUTH_PATH \
 #     --jenkins_job=$JENKINS_JOB \
-#     --jenkins_token=$JENKINS_TOKEN
+#     --jenkins_token=$JENKINS_TOKE \
 #     --test_google \
 #     --test_aws
 
